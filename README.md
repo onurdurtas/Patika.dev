@@ -1,4 +1,4 @@
-Proje 1
+<b> Proje 1 </b>
 [22,27,16,2,18,6] -> Insertion Sort
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -28,8 +28,6 @@ Best case: Aradığımız sayının dizinin en başında olması.
 Cevap Average Case olacaktır.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
-
-
 
 [7,3,5,8,2,9,4,15,6]
 [2,3,5,8,7,9,4,15,6]
