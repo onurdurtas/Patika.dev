@@ -29,7 +29,7 @@ Cevap Average Case olacaktır.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
-[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+
 
 [7,3,5,8,2,9,4,15,6]
 [2,3,5,8,7,9,4,15,6]
