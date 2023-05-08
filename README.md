@@ -19,7 +19,7 @@
 
 Big- O gösterimi n^2
 
-##Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+## Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
 Cevap Average Case olacaktır.
 
