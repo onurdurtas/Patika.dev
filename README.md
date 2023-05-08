@@ -1,6 +1,7 @@
-[22,27,16,2,18,6] -> Insertion Sort
-
-Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+ ## Proje 1
+  
+## [22,27,16,2,18,6] -> Insertion Sort
+## Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 22 I 27 26 2 18 16
 
